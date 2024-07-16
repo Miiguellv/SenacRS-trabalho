@@ -1,0 +1,127 @@
+Interface produtos {
+
+Nome: string
+Tipo: string 
+Número : number
+Calculartotal() 
+
+} 
+
+
+// function escolherpagament() {
+//.1 pix 
+//.2 cartão 
+//.3 dinheiro 
+
+} 
+
+Function menu() {
+Consele.log = ' lojinha:' 
+Console.log = '/n 1. carinho de compras' 
+Console.log =' 2. Produtos para comprar'
+Consele.log =' 3. Opções de pagamento' 
+Console.log =' 4. Sair' 
+
+
+} 
+
+
+
+
+Export class eletrônico implements produto{
+
+Nome: string 
+Tipo : string 
+Preço : number 
+
+Constructor (nome : string, tipo: string, preço : number) {
+
+This.nome = 'fone' 
+This.tipo = 'eletrônico' 
+This. Preço = 150.00
+
+} 
+Calculartotal() 
+} 
+
+
+
+
+Export class comida implements produtos {
+ Nome : string 
+Tipo : string 
+Preço : number 
+
+Constructor  (nome : string, tipo: string, preço : number) {
+This.nome : 'maçã' 
+This.tipo : 'comida' 
+This.preco : 5.00
+} 
+
+
+
+
+Export class moveis implements produtos{
+Nome : string 
+Tipo : string 
+Preço : number 
+
+Constructor  (nome : string, tipo: string, preço : number) {
+This.nome : 'cadeira ' 
+This.tipo : 'movel' 
+This.preco : 250.00
+} 
+
+
+
+
+
+
+Export class roupa implements produto {
+Nome : string 
+Tipo : string 
+Preço : number 
+
+Constructor  (nome : string, tipo: string, preço : number) {
+This.nome : 'moletom' 
+This.tipo : 'roupa' 
+This.preco : 99.00
+
+
+Calculartotal () 
+
+} 
+
+
+Export class flor implements produto {
+
+
+Nome : string 
+Tipo : string 
+Preço : number 
+
+Constructor  (nome : string, tipo: string, preço : number) {
+This.nome : 'flor de plástico ' 
+This.tipo : 'flor' 
+This.preco : 20.00
+
+
+} 
+
+
+
+
+Interface métodoDePagamento{
+
+
+While
+Function pagamento() {
+If
+
+
+
+
+Pagar() 
+
+} 
+
